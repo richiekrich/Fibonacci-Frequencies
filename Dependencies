@@ -1,5 +1,11 @@
-Make sure to install these dependencies beforehand: 
+Make sure to install these python dependencies beforehand: 
 pip install pillow
 pip install simpleaudio
 pip install numpy
 pip install scipy
+
+If you are using python3 then use these:
+pip3 install pillow
+pip3 install simpleaudio
+pip3 install numpy
+pip3 install scipy
