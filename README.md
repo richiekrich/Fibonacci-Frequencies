@@ -1,4 +1,4 @@
-# FibonacciFrequencies
+# Fibonacci Frequencies
 This Python script creates a sequence of Fibonnaci number and maps them to frequencies that can be heard by the human ear, and plays arpeggiates them in order.
 Before running the script, set the parameters for BPM and Volume to be played. The BPM (Beats-Per-Minute) slider adjusts the rate at which the frequencies are played.
 Ensure that the audio is at a safe playback level, as some of the frequencies are harsh. 
