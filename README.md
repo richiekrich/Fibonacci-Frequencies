@@ -5,5 +5,3 @@ Ensure that the audio is at a safe playback level, as some of the frequencies ar
 You also have the option to lower the high-end frequencies using an adjustable equalizer slider to filter off the high-end frequencies before running the script. 
 To start playing the audio, press the start button. 
 To stop playing the audio, press the stop button. 
-
-![fib](https://github.com/richiekrich/Fibonacci-Frequencies/assets/117860505/7cb33330-fdea-4609-8c6d-caf68b6d9b3e)
